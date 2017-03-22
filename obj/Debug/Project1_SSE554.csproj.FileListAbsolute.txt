@@ -1,0 +1,40 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\bin\Debug\Project1_SSE554.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\bin\Debug\Project1_SSE554.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\bin\Debug\Project1_SSE554.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.GameResults.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.ChooseGameType.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.GuessTheNumber.resources
+C:\Users\Daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.Login.resources
+C:\Users\Daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.SignUp.resources
+C:\Users\Daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\bin\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.csproj.ResolveComReference.cache
+C:\Users\Daniel\documents\visual studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.GuessTheTvShow.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.Yahtzee.resources
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\bin\Debug\Project1_SSE554.exe.config
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.csproj.ResolveComReference.cache
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.exe
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.pdb
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\bin\Debug\Project1_SSE554.exe
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\bin\Debug\Project1_SSE554.pdb
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\bin\Debug\Interop.WMPLib.dll
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.csprojResolveAssemblyReference.cache
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.ChooseGameType.resources
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.GameResults.resources
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.GuessTheTvShow.resources
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.GuessTheNumber.resources
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.Login.resources
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.Properties.Resources.resources
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.SignUp.resources
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.Yahtzee.resources
+C:\Users\Pierre\Documents\School\Spring 2017\SSE 554\Project 3\Project1_SSE554\Project1_SSE554\obj\Debug\Project1_SSE554.csproj.GenerateResource.Cache

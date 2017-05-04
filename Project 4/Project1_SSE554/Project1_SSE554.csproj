@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C264C12D-B4F4-46F7-8EFB-2047A579A5B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project1_SSE554</RootNamespace>
+    <AssemblyName>Project1_SSE554</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChooseGameType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseGameType.Designer.cs">
+      <DependentUpon>ChooseGameType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseNumOfGames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseNumOfGames.Designer.cs">
+      <DependentUpon>ChooseNumOfGames.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameResults.Designer.cs">
+      <DependentUpon>GameResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameType.cs" />
+    <Compile Include="GuessTheTvShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuessTheTvShow.Designer.cs">
+      <DependentUpon>GuessTheTvShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuessTheNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuessTheNumber.Designer.cs">
+      <DependentUpon>GuessTheNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user.cs" />
+    <Compile Include="Yahtzee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yahtzee.Designer.cs">
+      <DependentUpon>Yahtzee.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChooseGameType.resx">
+      <DependentUpon>ChooseGameType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseNumOfGames.resx">
+      <DependentUpon>ChooseNumOfGames.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameResults.resx">
+      <DependentUpon>GameResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuessTheTvShow.resx">
+      <DependentUpon>GuessTheTvShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuessTheNumber.resx">
+      <DependentUpon>GuessTheNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yahtzee.resx">
+      <DependentUpon>Yahtzee.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\Five.jpg" />
+    <Content Include="Images\Four.jpg" />
+    <Content Include="Images\lizard.jpg" />
+    <Content Include="Images\lock.png" />
+    <Content Include="Images\One.jpg" />
+    <Content Include="Images\paper.jpg" />
+    <Content Include="Images\rock.jpg" />
+    <Content Include="Images\scissors.jpg" />
+    <Content Include="Images\Six.jpg" />
+    <Content Include="Images\spock.jpg" />
+    <Content Include="Images\Three.jpg" />
+    <Content Include="Images\Two.jpg" />
+    <Content Include="Images\unlock.png" />
+    <Content Include="MP3\Avatar The Last Airbender.mp3" />
+    <Content Include="MP3\Batman.mp3" />
+    <Content Include="MP3\Code Lyoko.mp3" />
+    <Content Include="MP3\Codename Kids Next Door.mp3" />
+    <Content Include="MP3\Danny Phantom.mp3" />
+    <Content Include="MP3\Dexter%27s Laboratory.mp3" />
+    <Content Include="MP3\Drake and Josh.mp3" />
+    <Content Include="MP3\Fairly Odd Parents.mp3" />
+    <Content Include="MP3\Foster%27s Home for Imaginary Friends.mp3" />
+    <Content Include="MP3\Jimmy Neutron.mp3" />
+    <Content Include="MP3\Kim Possible.mp3" />
+    <Content Include="MP3\Lilo and Stitch.mp3" />
+    <Content Include="MP3\Pokemon.mp3" />
+    <Content Include="MP3\Powerpuff Girls.mp3" />
+    <Content Include="MP3\Recess.mp3" />
+    <Content Include="MP3\Rocket Power.mp3" />
+    <Content Include="MP3\Samurai Jack.mp3" />
+    <Content Include="MP3\Scooby Doo.mp3" />
+    <Content Include="MP3\SpongeBob SquarePants.mp3" />
+    <Content Include="MP3\Teen Titans.mp3" />
+    <Content Include="MP3\The Fresh Prince Of Bel Air.mp3" />
+    <Content Include="MP3\The Magic School Bus.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
